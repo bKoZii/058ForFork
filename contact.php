@@ -5,7 +5,7 @@
       <td height="119" colspan="2" bgcolor="#006600">
         <h1>
           <center>
-            <font color="#FFFFFF">อพาร์ตเมนต์</font>
+            <font color="#FFFFFF">สอนสงอพาร์ตเมนต์</font>
           </center>
         </h1>
         <?php include "Date.php"; ?>
