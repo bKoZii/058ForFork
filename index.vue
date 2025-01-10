@@ -2,8 +2,8 @@
   <div>
     <h1>LAB3 - 058ForFork</h1>
     <hr>
-    <input type="text" name="userName" id="test" v-model="userName" placeholder="Enter your username">
-    <p>Username ของคุณ: {{ userName }}</p>
+    <input type="text" name="userName" id="test" v-model="userName" placeholder="ป้อน Username ของคุณ">
+    <p>Your Username: {{ userName }}</p>
   </div>
 </template>
 
